@@ -6,6 +6,7 @@ This is not the actual project itself, but the build to a game I designed and pr
 **Overview of game:**
 This game is a simple online multiplayer game that can be played with as little as one player. 
 The point of the game is to try and survive for as long as possible by avoiding contact with various minions that will chase you around the arena. 
+It should be noted that since this build is on WebGL, the framerate isn't as consistent as when played on mobile or as an executable.
 
 **Controls:**
 Keyboard: WASD
